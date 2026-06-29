@@ -46,7 +46,7 @@ function gatePage(salt, iv, ct) {
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#111828">
 <meta name="robots" content="noindex, nofollow">
-<title>Jorge &amp; Rebeca · Norway</title>
+<title>Bergen &amp; the Fjords</title>
 <style>
   :root{color-scheme:dark}
   *{box-sizing:border-box}
@@ -74,7 +74,7 @@ function gatePage(salt, iv, ct) {
 <body>
   <div class="gate">
     <svg class="drop" viewBox="0 0 24 28"><path d="M12 0C12 0 2 12 2 19a10 10 0 0 0 20 0C22 12 12 0 12 0z"/></svg>
-    <h1>Jorge &amp; Rebeca · Norway</h1>
+    <h1>Bergen &amp; the Fjords</h1>
     <p>This itinerary is private. Enter the password to continue.</p>
     <form id="f">
       <input id="pw" type="password" placeholder="Password" autocomplete="current-password" autofocus>
