@@ -1,0 +1,3 @@
+# Local plaintext source for the itinerary — NEVER commit (contains private details)
+itinerary.plain.html
+node_modules/
